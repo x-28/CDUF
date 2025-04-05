@@ -4,3 +4,7 @@
 新建一个result文件夹来存储上述模型，可直接用于测试，也可以从头训练
 数据集下载参考 clipprompt
 其他问题可留言或者邮箱联系。
+
+ChairV2数据集，小数据集，方便大家使用。
+链接：https://pan.baidu.com/s/1StnfTlBMP-CFtf1XXA_zeQ 
+提取码：LiXu
